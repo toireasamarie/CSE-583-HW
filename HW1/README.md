@@ -1,0 +1,1 @@
+I completed this homework by using the pandas documentation and looking up specific pandas syntax which I have forgotten. I am pretty familiar with using pandas, so I was able to do most of this exercise from memory of pandas tools. 
