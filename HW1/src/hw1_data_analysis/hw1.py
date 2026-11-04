@@ -34,7 +34,6 @@ plt.savefig('counts_by_hour.png', dpi = 500)
 #plt.show()
 
 #deciding what is the busiest hour of the day 
-# Find the busiest hour of the day
 hour_total_max =hour_totals.max()
 hour_total_max_index =hour_totals.idxmax()
 
